@@ -7,7 +7,8 @@ namespace mis221_lab
     {
         static void Main(string[] args)
         {
-            Author myAuthor = new Author("Jeff", 'm', "jlucas@cba.ua.edu");
+            Console.Clear();
+            Author myAuthor = new Author("Jeff Lucas", 'm', "jslucas@cba.ua.edu");
             Console.WriteLine(myAuthor.ToString());
 
             Book myBook = new Book("1234","My Book, Your Book",myAuthor);
