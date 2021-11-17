@@ -1,8 +1,8 @@
 using System;
 
-namespace mis221_lab
+namespace oop_lab_rmkash
 {
-    public class Book
+    public class Author
     {
         //instance variables
         private string isbn;
@@ -30,7 +30,7 @@ namespace mis221_lab
         {
             title = tempTitle;
         }
-        public Author GetAuthor()
+        public string GetAuthor()
         {
             return author;
         }
@@ -40,7 +40,17 @@ namespace mis221_lab
         }
         public override string ToString()
         {
-            string message = "\nISBN = "+isbn+",   Title = "+title+",   Author: "+author;
+            string message;
+            //if there is a TV available, tell the user the size, manufacturer, and price
+            if (message) 
+            {
+                message = "A ";
+            }
+            else
+            {
+                message = "You bought ";
+            }
+            //return the message
             return message;
         }
     }
