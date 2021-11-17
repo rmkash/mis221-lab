@@ -40,7 +40,7 @@ namespace mis221_lab
         }
         public override string ToString()
         {
-            string message = "ISBN = "+isbn+"   Title = "+title+"   Author = "+author;
+            string message = "\nISBN = "+isbn+"   Title = "+title+"   Author = "+author;
             return message;
         }
     }
