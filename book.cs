@@ -1,56 +1,46 @@
 using System;
 
-namespace oop_lab_rmkash
+namespace mis221_lab
 {
     public class Book
     {
         //instance variables
-        private string name;
-        private char gender;
-        private string email;
-        public Book(string tempName, char tempGender, string tempEmail)
+        private string isbn;
+        private string title;
+        private Author author;
+        public Book(string tempIsbn, string tempTitle, Author tempAuthor)
         {
-            name = tempName;
-            gender = tempGender;
-            email=tempEmail;
+            isbn = tempIsbn;
+            title = tempTitle;
+            author=tempAuthor;
         }
-        public string GetName()
+        public string GetIsbn()
         {
-            return name;
+            return isbn;
         }
-        public void SetIsbn(string tempName)
+        public void SetIsbn(string tempIsbn)
         {
-            name = tempName;
+            isbn = tempIsbn;
         }
-        public char GetGender()
+        public string GetTitle()
         {
-            return gender;
+            return isbn;
         }
-        public void SetGender(char tempGender)
+        public void SetTitle(string tempTitle)
         {
             title = tempTitle;
         }
-        public string GetEmail()
+        public Author GetAuthor()
         {
-            return email;
+            return author;
         }
-        public void SetEmail(string tempEmail)
+        public void SetAuthor(Author tempAuthor)
         {
-            email = tempEmail;
+            author = tempAuthor;
         }
         public override string ToString()
         {
-            string message;
-            //if there is a TV available, tell the user the size, manufacturer, and price
-            if (message) 
-            {
-                message = "A ";
-            }
-            else
-            {
-                message = "You bought ";
-            }
-            //return the message
+            string message = "ISBN = "+isbn+"   Title = "+title+"   Author = "+author;
             return message;
         }
     }

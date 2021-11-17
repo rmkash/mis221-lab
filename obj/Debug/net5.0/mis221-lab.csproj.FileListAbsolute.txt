@@ -1,0 +1,15 @@
+/Users/rachel/Documents/Source/Repos/Labs/mis221-lab/obj/Debug/net5.0/mis221-lab.csproj.AssemblyReference.cache
+/Users/rachel/Documents/Source/Repos/Labs/mis221-lab/obj/Debug/net5.0/mis221-lab.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rachel/Documents/Source/Repos/Labs/mis221-lab/obj/Debug/net5.0/mis221-lab.AssemblyInfoInputs.cache
+/Users/rachel/Documents/Source/Repos/Labs/mis221-lab/obj/Debug/net5.0/mis221-lab.AssemblyInfo.cs
+/Users/rachel/Documents/Source/Repos/Labs/mis221-lab/obj/Debug/net5.0/mis221-lab.csproj.CoreCompileInputs.cache
+/Users/rachel/Documents/Source/Repos/Labs/mis221-lab/bin/Debug/net5.0/mis221-lab.deps.json
+/Users/rachel/Documents/Source/Repos/Labs/mis221-lab/bin/Debug/net5.0/mis221-lab.runtimeconfig.json
+/Users/rachel/Documents/Source/Repos/Labs/mis221-lab/bin/Debug/net5.0/mis221-lab.runtimeconfig.dev.json
+/Users/rachel/Documents/Source/Repos/Labs/mis221-lab/bin/Debug/net5.0/mis221-lab.dll
+/Users/rachel/Documents/Source/Repos/Labs/mis221-lab/bin/Debug/net5.0/ref/mis221-lab.dll
+/Users/rachel/Documents/Source/Repos/Labs/mis221-lab/bin/Debug/net5.0/mis221-lab.pdb
+/Users/rachel/Documents/Source/Repos/Labs/mis221-lab/obj/Debug/net5.0/mis221-lab.dll
+/Users/rachel/Documents/Source/Repos/Labs/mis221-lab/obj/Debug/net5.0/ref/mis221-lab.dll
+/Users/rachel/Documents/Source/Repos/Labs/mis221-lab/obj/Debug/net5.0/mis221-lab.pdb
+/Users/rachel/Documents/Source/Repos/Labs/mis221-lab/obj/Debug/net5.0/mis221-lab.genruntimeconfig.cache
