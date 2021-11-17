@@ -15,9 +15,10 @@ namespace mis221_lab
 
             Console.WriteLine("\n"+myBook.GetAuthor().ToString());
 
-            Book yourBook = new Book("4321","The Phantom Book",new Author("Jamie",'f',"jamie@mail.com"));
+            Author yourAuthor = new Author("Jamie",'f',"jamie@mail.com");
+            Book yourBook = new Book("4321","The Phantom Book",yourAuthor);
             Console.WriteLine(yourBook.ToString());
-            myAuthor.SetEmail("jdweisberger@crimson.ua.edu");;
+            yourAuthor.SetEmail("jdweisberger@crimson.ua.edu");;
             Console.WriteLine(yourBook.ToString());
         }
     }
