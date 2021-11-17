@@ -40,7 +40,7 @@ namespace mis221_lab
         }
         public override string ToString()
         {
-            string message = "Name = "+name+"    Email = "+email+"   Gender = "+gender;
+            string message = "Name = "+name+",   Email = "+email+",   Gender = "+gender;
             return message;
         }
     }
